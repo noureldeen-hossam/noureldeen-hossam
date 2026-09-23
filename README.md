@@ -1,64 +1,42 @@
 # 👋 Hi, I'm Noureldeen
 
-### 🐍 Python Developer in Progress
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=45&lines=Python+Developer+in+Progress;Learning+Python;Building+Real+Projects;Always+Learning+%F0%9F%9A%80" alt="Typing Animation">
+</p>
 
-I'm currently learning **Python** and building practical projects to strengthen my programming and problem-solving skills.
-
-I enjoy turning what I learn into real projects and continuously improving my coding abilities.
-
----
-
-## 🌱 Currently Learning
-
-* 🐍 Python
-* ⚙️ Functions
-* 🔁 Loops
-* 🔀 Conditional Statements
-* 📋 Lists & Strings
-* 🧩 Problem Solving
-* 📦 Modules & Libraries
-
----
-
-## 🚀 Projects
-
-### 🔐 Caesar Cipher
-
-A Python program for encrypting and decrypting messages using the Caesar Cipher technique.
-
-**Built with:**
-`Python` • `Functions` • `Loops` • `Conditions` • `Lists` • `Strings`
-
-More projects coming soon... 🚀
-
----
-
-## 🎯 My Goal
-
-To become a skilled **Python Developer** by learning continuously, building real projects, and solving challenging problems.
-
-```text
-Learn → Build → Practice → Improve 🚀
-```
+<p align="center">
+  🐍 Python Learner &nbsp; | &nbsp; 💻 Building Projects &nbsp; | &nbsp; 🚀 Always Learning
+</p>
 
 ---
 
 ## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python">
 </p>
 
-**🐍 Python**
+---
+
+## 🚀 Projects
+
+* 🔐 Caesar Cipher
+* 🎮 Rock Paper Scissors
+* 🔑 Password Generator
+* ❤️ Love Calculator
 
 ---
 
-## 📚 My Learning Journey
+## 🎯 2026 Goal
 
-I'm currently building my Python foundation through hands-on projects and coding challenges.
-
-This profile will grow alongside my skills. 🚀
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&center=true&vCenter=true&width=650&height=40&lines=Master+Python;Build+Real+Projects;Become+a+Developer+%F0%9F%9A%80" alt="2026 Goal">
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/noureldeen-hossam/noureldeen-hossam/output/github-snake.svg" alt="GitHub Contribution Snake">
+</p>
