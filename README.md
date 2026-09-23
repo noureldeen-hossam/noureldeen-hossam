@@ -40,9 +40,3 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/noureldeen-hossam/noureldeen-hossam/output/github-snake.svg" alt="GitHub Contribution Snake">
-</p>
