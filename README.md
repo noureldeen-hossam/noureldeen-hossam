@@ -1,16 +1,64 @@
-## Hi there 👋
+# 👋 Hi, I'm Noureldeen
 
-<!--
-**noureldeen-hossam/noureldeen-hossam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Python Developer in Progress
 
-Here are some ideas to get you started:
+I'm currently learning **Python** and building practical projects to strengthen my programming and problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning what I learn into real projects and continuously improving my coding abilities.
+
+---
+
+## 🌱 Currently Learning
+
+* 🐍 Python
+* ⚙️ Functions
+* 🔁 Loops
+* 🔀 Conditional Statements
+* 📋 Lists & Strings
+* 🧩 Problem Solving
+* 📦 Modules & Libraries
+
+---
+
+## 🚀 Projects
+
+### 🔐 Caesar Cipher
+
+A Python program for encrypting and decrypting messages using the Caesar Cipher technique.
+
+**Built with:**
+`Python` • `Functions` • `Loops` • `Conditions` • `Lists` • `Strings`
+
+More projects coming soon... 🚀
+
+---
+
+## 🎯 My Goal
+
+To become a skilled **Python Developer** by learning continuously, building real projects, and solving challenging problems.
+
+```text
+Learn → Build → Practice → Improve 🚀
+```
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
+</p>
+
+**🐍 Python**
+
+---
+
+## 📚 My Learning Journey
+
+I'm currently building my Python foundation through hands-on projects and coding challenges.
+
+This profile will grow alongside my skills. 🚀
+
+---
+
+⭐ Thanks for visiting my profile!
