@@ -33,6 +33,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=1000&center=true&vCenter=true&width=650&height=40&lines=Master+Python;Build+Real+Projects;Become+a+Developer+%F0%9F%9A%80" alt="2026 Goal">
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/noureldeen-hossam/noureldeen-hossam/gh-pages/github-snake.svg" alt="GitHub Contribution Snake">
+</p>
+
 ---
 
 ## 🐍 Contribution Snake
